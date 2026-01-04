@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+pymupdf
+pypdf
+streamlit
+tiktoken
+docx2txt
