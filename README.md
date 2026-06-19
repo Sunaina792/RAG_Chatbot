@@ -141,7 +141,7 @@ python-dotenv
 
 ## 👩‍💻 Author
 
-**Sunaina** — B.Tech CSE (AI & ML), Baba Farid College of Engineering and Technology
+**Sunaina**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sunaina--ai-blue)](https://www.linkedin.com/in/sunaina-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sunaina792-black)](https://github.com/Sunaina792)
